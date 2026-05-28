@@ -83,6 +83,13 @@ Crack **High-Level Design (HLD)** rounds
 - E-commerce system
 - Log processing system
 - Rate limiter
+- Design notification system
+- Design payment system
+- Caching strategies
+- DB sharding
+- Kafka event-driven architecture
+- Rate limiting & throttling
+- Idempotency handling
 
 ## 💡 Interview Expectation:
 - Clear thinking
