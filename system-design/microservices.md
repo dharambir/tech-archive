@@ -1,4 +1,31 @@
 # Microservices Architecture - Interview Guide
+# Table of Contents
+
+* [1. What are Microservices?](#1-what-are-microservices)
+* [2. Monolith vs Microservices](#2-monolith-vs-microservices)
+* [3. Why Microservices?](#3-why-microservices)
+* [4. High-Level Microservices Architecture](#4-high-level-microservices-architecture)
+* [5. Service-to-Service Communication](#5-service-to-service-communication)
+
+  * [A) Synchronous Communication (HTTP/gRPC)](#a-synchronous-communication-httpgrpc)
+  * [B) Asynchronous Communication (Event-Driven)](#b-asynchronous-communication-event-driven)
+* [6. Database Per Service Pattern](#6-database-per-service-pattern)
+* [7. Service Discovery](#7-service-discovery)
+* [8. API Gateway Pattern](#8-api-gateway-pattern)
+* [9. Distributed Transactions](#9-distributed-transactions)
+* [10. Eventual Consistency](#10-eventual-consistency)
+* [11. Resilience Patterns](#11-resilience-patterns)
+
+  * [Circuit Breaker](#circuit-breaker)
+  * [Retry Pattern](#retry-pattern)
+  * [Timeout Pattern](#timeout-pattern)
+  * [Bulkhead Pattern](#bulkhead-pattern)
+* [12. Caching in Microservices](#12-caching-in-microservices)
+* [13. Deployment Architecture](#13-deployment-architecture)
+* [14. Logging & Monitoring](#14-logging--monitoring)
+* [15. Security in Microservices](#15-security-in-microservices)
+* [16. Common Interview Questions](#16-common-interview-questions)
+* [17. Strong Senior-Level Interview Answer](#17-strong-senior-level-interview-answer)
 
 ## 1. What are Microservices?
 
