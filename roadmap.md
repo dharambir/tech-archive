@@ -1,7 +1,12 @@
 ## Table of Contents
-* [1. Event Loop (VERY IMPORTANT)](#1-event-loop-very-important)
-
-
+* [Phase 1: Advanced Node.js (Backend Depth) [5–7 days]](#-phase-1-advanced-nodejs-backend-depth-57-days)
+  * [1. Event Loop (VERY IMPORTANT)](#1-event-loop-very-important)
+* [Phase 2: System Design (Core) [10–12 days]](#%EF%B8%8F-phase-2-system-design-core-1012-days)
+* [Phase 3: Solution Architecture (AWS Focus) [7–8 days]](#%EF%B8%8F-phase-3-solution-architecture-aws-focus-78-days)
+* [Phase 4: System Architect Thinking [5–6 days]](#-phase-4-system-architect-thinking-56-days)
+* [Phase 5: Leadership & Ownership [4–5 days]](#%E2%80%8D-phase-5-leadership--ownership-45-days)
+* [Phase 6: Mock + Real Interview Prep [Ongoing]](#-phase-6-mock--real-interview-prep-ongoing)
+  
 
 # 🚀 Senior Backend → Architect Transition Plan (6–8 Weeks)
 
