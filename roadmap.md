@@ -1,3 +1,8 @@
+## Table of Contents
+* [1. Event Loop](#1-Event-Loop)
+
+
+
 # 🚀 Senior Backend → Architect Transition Plan (6–8 Weeks)
 
 ## 🧭 Overall Strategy
